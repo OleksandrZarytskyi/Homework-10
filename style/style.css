@@ -1,0 +1,43 @@
+body {
+  background-color: #fafafa;
+  font-family: "Helvetica Neue";
+}
+.ipt {
+  background-image: url(../icons/search.svg);
+  background-repeat: no-repeat;
+  background-position: 55px 6px;
+}
+.head {
+  border-bottom: 1px solid #dbdbdb;
+}
+.ipt:focus {
+  background-image: none;
+  outline: 0 none;
+}
+.btn1 {
+  background-image: url(../icons/Polygon9.svg);
+  background-repeat: no-repeat;
+  background-position: 13px 15px;
+}
+h5 {
+  color: #262626;
+}
+a {
+  font-size: 20px;
+  font-weight: 800;
+}
+.hu5 {
+  margin-left: 11px;
+}
+h3,
+h4,
+h5,
+h6 {
+  color: #262626;
+}
+.main {
+  border-bottom: 1px solid #dbdbdb;
+}
+.hu6 h6 {
+  color: #8f8f8f;
+}
